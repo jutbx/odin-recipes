@@ -1,3 +1,2 @@
-# git_test
-Firt Github Repo
-Hello Odin!
+# odin-recipes
+Odin Html Project - Recipes Website
